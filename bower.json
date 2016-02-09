@@ -1,0 +1,28 @@
+{
+  "name": "json-admin-config",
+  "homepage": "https://github.com/mangothrower/json-admin-config",
+  "description": "",
+  "main": "src/js/json-admin-config.js",
+  "moduleType": [],
+  "keywords": [
+    "json",
+    "config"
+  ],
+  "authors": [
+    "Joshua Mayne <mangothrower@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "fontawesome#^4.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
